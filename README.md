@@ -14,6 +14,7 @@ I've been programming for roughly a year and a half, in mostly C++. Although, I 
 <a href="https://www.github.com/kkyanh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kkyanh?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a><a href="https://www.twitch.tv/kkyanh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/kkyanh?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=27272a&label=TWITCH+STATUS" /></a>
+
 ### Skills
 
 <p align="left">
@@ -23,6 +24,7 @@ src="https://img.shields.io/twitch/status/kkyanh?logo=twitchsx&style=for-the-bad
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/kyanh#8888" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kkyanh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kkyanh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ky-anh-ho-361119243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCRu0GhPd4X5XVXfxe7ZUJ1g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/kkyanh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
