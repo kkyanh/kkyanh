@@ -28,5 +28,3 @@ src="https://img.shields.io/twitch/status/kkyanh?logo=twitchsx&style=for-the-bad
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kkyanh"><img src="https://activity-graph.herokuapp.com/graph?username=kkyanh&bg_color=27272a&color=ffffff&line=ef4444&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/kkyanh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkyanh&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
