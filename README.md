@@ -14,7 +14,6 @@ I've been programming for roughly a year and a half, in mostly C++. Although, I 
 <a href="https://www.github.com/kkyanh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kkyanh?logo=github&style=for-the-badge&color=ef4444&labelColor=27272a" /></a><a href="https://www.twitch.tv/kkyanh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/kkyanh?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=27272a&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 <p align="left">
