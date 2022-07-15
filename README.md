@@ -6,14 +6,15 @@
 
 I've been programming for roughly a year, mostly in C++. However, I'd say I'm still relatively new as I haven't found the time to do personal projects and am just starting to get more involved. Hopefully I can look back and see how much I've progressed by the time I majorly update this again!
 
-* 🌍  I'm based in California
+* 🌍  Based in California
 * 🖥️  See my portfolio [here!](http://kkyanh.github.io/Portfolio/#)
 * ✉️  You can contact me at [kyanh.q.ho@gmail.com](mailto:kyanh.q.ho@gmail.com)
-* 🧠  I'm learning stats and linear algebra
+* 🧠  I'm learning statistics, JavaScript, and React!
 ### Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 </p>
 
 ### Socials
