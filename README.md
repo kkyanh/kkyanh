@@ -15,7 +15,7 @@ I am currently a senior studying computer science with a specialization in intel
 <h2>
   🌐 Let's Connect!
 </h2>
-<a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ky-anh-ho/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <h1>
   💻 Tech Stack
