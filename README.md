@@ -7,10 +7,19 @@
 <h1>
   📜 About Me
 </h1>
-I am currently a new grad computer science major with a specialization in intelligent systems from the University of California, Irvine, with interests in app development and full stack development!
+I am currently a new grad computer science major with a specialization in intelligent systems from the University of California, Irvine, with interests in healthcare, app development and full stack development! Besides tech, I'm a huge fashion and art enthusiast, and a very average gym goer!
 
 <!-- * 🖥️  See my portfolio here! -->
 <!-- ✉️  You can contact me at [kyanh.q.ho@gmail.com](mailto:kyanh.q.ho@gmail.com) -->
+
+<h2>
+  🗃️ Current Projects
+</h2>
+<ul>
+  <li>💻 Interactive Portfolio Site! Current theme is inspired by simple cozy graphics, learning 3D modeling a bit to go along</li>
+  <li>👖 A multiplatform fashion hub</li>
+  <li>🏋️‍♂️ A barbell path tracking project with my powerlifting friend</li>
+</ul>
 
 <h1>
   🌐 Let's Connect!
